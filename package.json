@@ -1,0 +1,23 @@
+{
+  "name": "Express_Router_Practice",
+  "version": "1.0.0",
+  "description": "Practicing with Express Router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jon-D-Smith/Express_Router_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jon-D-Smith/Express_Router_Practice/issues"
+  },
+  "homepage": "https://github.com/Jon-D-Smith/Express_Router_Practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
